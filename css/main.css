@@ -44,8 +44,10 @@ li a {
   border-color: #d89fb0;
 }
 
-.btn a:hover {
+.btn-ghost:hover {
   color: #860927;
+  background-color: #d89fb0;
+  border-color: #860927;
 }
 
 .btn {
