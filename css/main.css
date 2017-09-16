@@ -1,0 +1,57 @@
+html {
+  font-family: 'Noto Sans', sans-serif;
+}
+
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+
+h1 {
+  font-family: "Noto Sans Japanese", sans-serif;
+}
+
+a {
+  color: #b64c6e;
+}
+
+.img-flex {
+  width: 100%;
+}
+
+hr {
+  border-color: #e2e2e2;
+}
+
+.ja-par{
+  padding-left: 2.5em;
+  padding-right: 2.5em;
+}
+
+.eng-par {
+  padding-left: 4em;
+  padding-right: 4em;
+}
+
+li a {
+  text-decoration: none;
+  border-bottom: 1px solid #b64c6e;
+  padding-bottom: 5px;
+  margin-left: .5em;
+  margin-right: .5em;
+}
+
+.btn-ghost{
+  border-color: #d89fb0;
+}
+
+.btn a:hover {
+  color: #860927;
+}
+
+.btn {
+  color: #b64c6e;
+}
+
+.copyright {
+  color: #e2e2e2;
+}
